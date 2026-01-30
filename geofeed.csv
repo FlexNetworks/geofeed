@@ -1,3 +1,5 @@
+# FlexNetworks Geofeed
+# Self-published geofeed as defined in RFC 8805
 104.255.208.0/24,CA,CA-SK,Saskatoon,
 104.255.209.0/24,CA,CA-SK,Saskatoon,
 104.255.211.0/28,CA,CA-SK,Saskatoon,
@@ -27,3 +29,4 @@
 45.42.130.0/24,CA,CA-SK,Saskatoon,
 45.42.129.64/28,CA,CA-SK,Nokomis,
 45.42.131.0/24,CA,CA-SK,Regina,
+#
