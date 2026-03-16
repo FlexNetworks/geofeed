@@ -7,6 +7,7 @@
 23.166.32.240/28,CA,CA-SK,Regina,
 64.234.118.0/24,CA,CA-MB,Winnipeg,
 104.224.34.0/24,CA,CA-MB,Winnipeg,
+158.51.52.30/28,CA,CA-SK,Prince Albert,
 158.51.244.0/25,CA,CA-MB,Winnipeg,
 158.51.244.128/25,CA,CA-SK,Regina,
 158.51.245.0/24,CA,CA-MB,Winnipeg,
@@ -33,7 +34,6 @@
 104.255.211.224/28,CA,CA-SK,Saskatoon,
 104.255.211.240/28,CA,CA-SK,Saskatoon,
 104.255.210.0/25,CA,CA-SK,Saskatoon,
-158.51.52.0/23,CA,CA-SK,Saskatoon,
 158.51.54.64/26,CA,CA-SK,Regina,
 158.51.55.0/24,CA,CA-SK,Saskatoon,
 64.203.70.0/23,CA,CA-SK,Saskatoon,
@@ -53,4 +53,5 @@
 2604:a640:f0f0::/44,CA,CA-SK,Regina,
 2604:a640:f070::/44,CA,CA-SK,Regina,
 2604:a640:f210::/44,CA,CA-SK,Regina,
+2604:a640:f240::/44,CA,CA-SK,Prince Albert,
 #
