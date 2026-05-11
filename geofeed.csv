@@ -8,6 +8,7 @@
 64.234.118.0/24,CA,CA-MB,Winnipeg,
 104.224.34.0/24,CA,CA-MB,Winnipeg,
 158.51.52.0/27,CA,CA-SK,Prince Albert,
+158.51.52.32/28,CA,CA-SK,Prince Albert,
 158.51.244.0/25,CA,CA-MB,Winnipeg,
 158.51.244.128/25,CA,CA-SK,Regina,
 158.51.245.0/24,CA,CA-MB,Winnipeg,
@@ -54,4 +55,5 @@
 2604:a640:f070::/44,CA,CA-SK,Regina,
 2604:a640:f210::/44,CA,CA-SK,Regina,
 2604:a640:f240::/44,CA,CA-SK,Prince Albert,
+2604:a640:f300::/44,CA,CA-SK,Prince Albert,
 #
